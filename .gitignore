@@ -1,0 +1,14 @@
+# Node.js dependencies
+**/node_modules/
+**/dist/
+**/logs/
+**/tmp/
+**/*.log
+
+# Entornos
+**/.env
+
+# Otros
+.DS_Store
+.idea/
+.vscode/
